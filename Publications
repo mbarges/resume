@@ -1,1 +1,67 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
 
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
+<!DOCTYPE html>
+<html lang="en">
+<p style="margin-left: 50px;<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+    <head>
+  <style>
+    body {
+      font-family: 'Calibri', sans-serif;
+      font-size: 16px;
+    }
+    h1 {
+      font-family: 'Georgia', serif;
+      color: darkblue;
+    }
+      h2 {
+      font-family: 'Georgia', serif;
+      color: darkblue;
+          font-size: 25px;
+    }
+  </style>
+</head>
+    <p></p>
+<body><div style="margin: 20px;"margin-right: 20px;><body style="background-color: FFF8D6;">
+<div class="circle-frame">   <img style="text-align: center;"src="M_Barges_Headshot.jpg" alt="My Photo" alt="Framed Photo" width="198" height="264">
+<section id="about" class="hero"><h1>Meredith Barges, MA, MDiv, PhD (ABD)</h1></section>
+</header><aside><i>Bird-friendly Building Policy Researcher & Advocate</i></h2></aside>
+<header><nav><ul><li><a href="MeredithBarges_CV.docx">CV</a> / <a href="https://www.linkedin.com/in/meredithbarges">LinkedIn</a></li></ul></nav></header></p>
+My PhD research project investigates the dynamics driving the adoption (and non-adoption) of mandatory bird-friendly building policies in U.S. and Canadian cities. I combine public policy analysis, environmental ethics, and urban political ecology to explain why some cities have mandatory bird-friendly building policies and others don't.</p> 
+In my advocacy role, I help people and decision makers to appreciate the complex lives of birds and how our decisions about building, lighting, and landscaping affect birds and human communities. I organize and partner with community groups to push for better rules to protect birds from building collisions and light pollution. 
+</p></p>I co-led a successful statewide campaign to pass <a href="https://www.cga.ct.gov/2023/act/pa/pdf/2023PA-00143-R00HB-06607-PA.pdf">CT Public Act 23-143</a>, Connecticut's lights out bill, which requires all CT state agencies to turn off unnecessary outdoor nighttime lights at state-owned buildings year-round for birds. In 2024, I worked with local advocates to convince the Town of Greenwich to adopt a <a href="https://www.greenwichct.gov/DocumentCenter/View/1265/Division-14---Lighting-Requirements-PDF">Lighting Zoning Code Amendment</a> comprising the most comprehensive municipal lighting law in Connecticut. 
+</p></p>To reduce bird building collisions on my campus, I helped convince the SUNY School of Environmental Science & Forestry to adopt a mandatory bird-friendly building policy for all new buildings and major retrofits as part of the <a href="https://www.esf.edu/sustainability/initiatives/leadership-administration/sustainability-action-plan/SustainabilityActionPlan_2025.pdf">2025 Sustainability Action Plan</a>. As a graduate student, I also led a community, art-based bird collision mitigation project <a href="https://www.linkedin.com/posts/sunyesf_improveourworld-activity-7336061742206144513-YTVq/2">community, art-based bird collision mitigation project </a>  that retrofitted several glass windscreens on campus.
+<br>
+     <br>
+<section id="about" class="hero"><h2>Presentations & Speaking Engagements</h2></section>
+  <p></p>
+    <i>Upcoming 2026 </i>
+<ul><p style="line-height: 1.8;">
+     <li><strong>Massachusetts Liberal Arts College 'Green Living Seminar'</strong>, Speaker, “How Laws Protecting Birds Strengthen Human Communities," North Adams, MA, April 8, 2026 ~ <a href="https://mcla.edu/mcla-in-the-community/press-release/2026-january/mclas-green-living-seminar-returns-with-nature-and-spirituality-series.php">Link</a></li>
+         
+</html>

@@ -1,3 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #449151;
+}
+
+.topnav a {
+  float: left;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #449151;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<div class="topnav">
+  <a class="active" href="https://meredithbarges.com/">Home</a>
+</div>
+
 <u><b>Whistler</b></u>
 <b>Monday, April 20</b>
 Urban Biodiversity Mini Summit Agenda - <a href="https://docs.google.com/document/d/1ILsjvtQq5qgQXZqGgfDJ-6krqzhjhLIyQOSmhHuMBkI/edit?tab=t.mh5p3eshzelw">LINK</a>
